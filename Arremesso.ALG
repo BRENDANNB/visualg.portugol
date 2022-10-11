@@ -2,20 +2,20 @@ Algoritmo "arremesso de dardo"
 Var
 a,b,c:real
 Inicio
- escreval("calcule seu maior lan�amento de dardo")
+ escreval("calcule seu maior lancamento de dardo")
  Escreval("digite seu primeiro lan�amento")
  leia(a)
- escreval("digite seu segundo la�amento")
+ escreval("digite seu segundo lancamento")
  leia(b)
- escreval("digite seu terceiro lan�ameto")
+ escreval("digite seu terceiro lancameto")
  leia(c)
   se (a > b) e (a > c) entao
-   escreva("seu maior lan�amento foi = ",a:5:2," metros")
+   escreva("seu maior lancamento foi = ",a:5:2," metros")
     senao
      se( b > a )e( b > c ) entao
-       escreva("seu maior lan�amento foi = ",b:5:2," metros")
+       escreva("seu maior lancamento foi = ",b:5:2," metros")
         senao
-         escreva("seu maior lan�amento foi = ",c:5:2," metros")
+         escreva("seu maior lancamento foi = ",c:5:2," metros")
      fimse
   fimse
 Fimalgoritmo
