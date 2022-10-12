@@ -1,4 +1,4 @@
-Algoritmo "ja mediu sua glicose?"
+Algoritmo "DIABETE"
 Var
 d:real
 Inicio
