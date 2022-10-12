@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "IDADES"
 Var
 p1,p2,media:real
 nome1,nome2:caractere
