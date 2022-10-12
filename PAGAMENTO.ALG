@@ -1,4 +1,4 @@
-Algoritmo "pagamento"
+Algoritmo "Pagamento"
 Var
 vh,horas,pagamento:real
 nome:caractere
