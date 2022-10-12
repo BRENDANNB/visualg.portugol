@@ -1,4 +1,4 @@
-Algoritmo "Problema tempo_de_jogo(adaptado de URI 1046)"
+Algoritmo "Problema tempo de jogo(adaptado de URI 1046)"
 Var
 i,f,h:real
 Inicio
