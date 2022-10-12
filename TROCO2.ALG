@@ -1,4 +1,4 @@
-Algoritmo "troco"
+Algoritmo "Troco2"
 Var
 precouni,q,troco,pag,precot,f:real
 
