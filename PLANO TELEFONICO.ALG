@@ -1,4 +1,4 @@
-Algoritmo "plano telefonico"
+Algoritmo "Plano Telefonico"
 Var
 g,t,ex:real
 Inicio
