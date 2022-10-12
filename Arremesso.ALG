@@ -3,7 +3,7 @@ Var
 a,b,c:real
 Inicio
  escreval("calcule seu maior lancamento de dardo")
- Escreval("digite seu primeiro lan�amento")
+ Escreval("digite seu primeiro lancamento")
  leia(a)
  escreval("digite seu segundo lancamento")
  leia(b)
