@@ -1,4 +1,4 @@
-Algoritmo "sistema lanchonete URI 1038"
+Algoritmo "Sistema Lanchonete URI 1038"
 Var
 u,precof,x,c:real
 Inicio
