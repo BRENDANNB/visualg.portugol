@@ -1,14 +1,14 @@
-Algoritmo "tabuada"
+Algoritmo "Tabuada"
 
 Var
 sm,x,n,s:inteiro
 
 Inicio
 s<-0
-escreval("tabuada")
-escreval("digite o numero da tabuada")
+escreval("Tabuada")
+escreval("Digite o Numero Da Tabuada")
 leia(n)
-escreval("qual o tamanho da sua tabuada ")
+escreval("Qual o Tamanho Da Sua Tabuada ")
 leia(x)
 para s de 0 ate x faca
 sm<-n*s
