@@ -3,7 +3,7 @@ Var
 a,b,c:inteiro
 Inicio
  escreval ("calcule automaticamente o menor numero")
- Escreval("digite o valor de a")
+ escreval("digite o valor de a")
  leia(a)
  escreval ("digite o valor de b")
  leia(B)
