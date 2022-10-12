@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "SOMA"
 Var
 x,y,soma:real
 
