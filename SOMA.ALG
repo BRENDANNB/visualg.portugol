@@ -10,7 +10,4 @@ Inicio
  leia(y)
   soma<-(X+Y)
  escreva("=",soma)
-
-
-
 Fimalgoritmo
