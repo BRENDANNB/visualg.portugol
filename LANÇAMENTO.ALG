@@ -1,4 +1,4 @@
-Algoritmo "arremesso de dardo"
+Algoritmo "LANÇAMENTO DE DARDO"
 Var
 a,b,c:real
 Inicio

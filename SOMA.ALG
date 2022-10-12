@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "SOMA"
 Var
 x,y,soma:real
 
@@ -10,7 +10,4 @@ Inicio
  leia(y)
   soma<-(X+Y)
  escreva("=",soma)
-
-
-
 Fimalgoritmo

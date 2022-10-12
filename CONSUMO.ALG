@@ -1,4 +1,4 @@
-Algoritmo "circulo"
+Algoritmo "CONSUMO"
 Var
 c,km,media:real
 m:caractere
