@@ -1,4 +1,4 @@
-Algoritmo "relogio"
+Algoritmo "Relogio"
 Var
 d,s,m,h,resto:inteiro
 
