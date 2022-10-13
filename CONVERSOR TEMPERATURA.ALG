@@ -4,7 +4,7 @@ u:caractere
 t,i:real
 Inicio
  escreval("digite abaixo a medida usada")
- Escreval("digite f para fahrenheit ou  c para celsius")
+ escreval("digite f para fahrenheit ou  c para celsius")
  leia(u)
  escreval("digite a temperatura")
  leia(i)
