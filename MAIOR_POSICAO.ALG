@@ -15,7 +15,7 @@ Inicio
       leia(numeros[i])
    fimpara
 
-   m <- 0
+   m <- numeros[0]
    para i de 0 ate N-1 faca
       se numeros[i] > m  entao
       m<-numeros[i]
